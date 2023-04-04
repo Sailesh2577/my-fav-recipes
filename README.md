@@ -1,3 +1,3 @@
 # odin-recipes
 
-### Making a recipe web-page
+### Favorite recipes web-page
